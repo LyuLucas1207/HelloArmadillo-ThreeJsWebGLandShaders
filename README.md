@@ -172,12 +172,7 @@ This project is available for educational purposes.
 ## 🙏 Acknowledgments
 
 - Three.js community and documentation
-- UBC CPSC 314 course materials
 - Texture resources and 3D models used in this project
-
-## 📚 Additional Resources
-
-For detailed keyboard controls and specific instructions for each version, please refer to the `README.txt` file in the respective `part1/` or `part2/` directory.
 
 ---
 

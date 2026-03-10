@@ -2,6 +2,8 @@
 
 A WebGL-based 3D graphics project built with Three.js, featuring an interactive 3D scene with custom shaders, texture mapping, real-time lighting effects, and character controls.
 
+![Game](images/game.png)
+
 ## 📋 Overview
 
 This project demonstrates advanced WebGL rendering techniques including custom GLSL shaders, PBR (Physically Based Rendering) texture mapping, dynamic lighting, and interactive 3D scene manipulation. It features two versions: a foundational implementation and an extended version with game mechanics.
@@ -22,6 +24,18 @@ This project demonstrates advanced WebGL rendering techniques including custom G
 - **Animation System**: Bounce animations and particle explosion effects
 - **Game Loop**: Structured game loop architecture with state management
 - **UI System**: User interface for game state and information display
+
+## 📸 Screenshots
+
+| Game start | Gameplay |
+|------------|----------|
+| ![Game](images/game.png) | ![Gameplaying](images/gameplaying.png) |
+
+| Light (orb / lighting) | Trans (body changes when ball gets close) |
+|------------------------|--------------------------------------------|
+| ![Light](images/light.png) | ![Trans](images/trans.png) |
+
+**Trans** = when the small ball (orb) gets close to the character, the body changes (e.g. boxing gloves appear, pose or color change).
 
 ## 🎮 Controls
 
